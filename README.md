@@ -2,6 +2,14 @@
 
 An intelligent learning assistant that transforms passive studying into active learning through AI-powered explanations, summaries, quizzes, and progress tracking.
 
+
+## 🚀 Live Demo
+
+The application is deployed on Streamlit Cloud and can be accessed here:  
+👉[WEBSITE](https://ai-poweredostudybuddy.streamlit.app/)
+
+
+
 ## 🌟 Features
 
 - **Concept Explanation**: Get level-appropriate explanations (Easy/Intermediate/Advanced)
@@ -12,12 +20,11 @@ An intelligent learning assistant that transforms passive studying into active l
 - **Progress Tracking**: Monitor your quiz performance over time
 
 ## 🛠️ Tech Stack
-
-- **Frontend**: Streamlit
-- **AI Model**: Google Gemini 2.5 Flash
-- **PDF Processing**: pypdf
-- **Database**: SQLite
-- **Language**: Python 3.9+
+- Frontend: Streamlit
+- AI Model: Google Gemini 2.5 Flash
+- PDF Processing: pypdf
+- Database: SQLite
+- Programming Language: Python 3.9+
 
 ## 📦 Installation
 
@@ -76,6 +83,7 @@ Contributions, suggestions, and improvements are welcome. If you would like to e
 ## 📄 License
 
 This project is licensed under the MIT License, allowing free use, modification, and distribution for learning and development purposes.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## 👨‍💻 Author
 
