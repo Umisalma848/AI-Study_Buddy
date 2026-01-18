@@ -69,15 +69,14 @@ quiz_results (
     timestamp DATETIME
 )
 ```
-
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit issues or pull requests.
+Contributions, suggestions, and improvements are welcome. If you would like to enhance this project, feel free to open an issue or submit a pull request.
 
 ## 📄 License
 
-MIT License - feel free to use this project for learning and development.
+This project is licensed under the MIT License, allowing free use, modification, and distribution for learning and development purposes.
 
 ## 👨‍💻 Author
 
-Built as part of a hackathon project to solve real student learning challenges.
+The goal of addressing real-world student learning challenges using AI-driven solutions.
